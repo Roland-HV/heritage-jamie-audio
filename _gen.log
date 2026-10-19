@@ -1,0 +1,56 @@
+[00] OK  s0b0 → narr-00.mp3 (49824 bytes)
+[01] OK  s1b0 → narr-01.mp3 (76608 bytes)
+[02] OK  s2b0 → narr-02.mp3 (45648 bytes)
+[03] OK  s2b1 → narr-03.mp3 (37872 bytes)
+[04] OK  s2b2 → narr-04.mp3 (25200 bytes)
+[05] OK  s2b3 → narr-05.mp3 (20160 bytes)
+[06] OK  s2b4 → narr-06.mp3 (44208 bytes)
+[07] OK  s3b0 → narr-07.mp3 (49248 bytes)
+[08] OK  s4b0 → narr-08.mp3 (51408 bytes)
+[09] OK  s4b1 → narr-09.mp3 (38160 bytes)
+[10] OK  s4b2 → narr-10.mp3 (26784 bytes)
+[11] OK  s4b3 → narr-11.mp3 (47520 bytes)
+[12] OK  s4b4 → narr-12.mp3 (39456 bytes)
+[13] OK  s4b5 → narr-13.mp3 (28224 bytes)
+[14] GEN s4b6 → narr-14.mp3 (110 chars)
+  FAIL en-US-AndrewNeural rc= 1 size= 0 Traceback (most recent call last):
+  File "/workspace/bot-sandbox/.venv-tts/bin/edge-tts", line 8, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/workspace/bot-sandbox/.venv-tts/lib/pyt
+[15] GEN s4b7 → narr-15.mp3 (45 chars)
+[16] GEN s4b8 → narr-16.mp3 (56 chars)
+[17] GEN s5b0 → narr-17.mp3 (112 chars)
+  FAIL en-US-AndrewNeural rc= 1 size= 0 Traceback (most recent call last):
+  File "/workspace/bot-sandbox/.venv-tts/bin/edge-tts", line 8, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/workspace/bot-sandbox/.venv-tts/lib/pyt
+[18] GEN s5b1 → narr-18.mp3 (86 chars)
+[19] GEN s5b2 → narr-19.mp3 (68 chars)
+[20] GEN s5b3 → narr-20.mp3 (84 chars)
+[21] GEN s5b4 → narr-21.mp3 (88 chars)
+[22] GEN s5b5 → narr-22.mp3 (79 chars)
+[23] GEN s6b0 → narr-23.mp3 (81 chars)
+[24] GEN s6b1 → narr-24.mp3 (85 chars)
+[25] GEN s6b2 → narr-25.mp3 (99 chars)
+[26] GEN s6b3 → narr-26.mp3 (50 chars)
+  FAIL en-US-AndrewNeural rc= 1 size= 0 Traceback (most recent call last):
+  File "/workspace/bot-sandbox/.venv-tts/bin/edge-tts", line 8, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/workspace/bot-sandbox/.venv-tts/lib/pyt
+[27] GEN s6b4 → narr-27.mp3 (62 chars)
+[28] GEN s6b5 → narr-28.mp3 (63 chars)
+  FAIL en-US-AndrewNeural rc= 1 size= 0 Traceback (most recent call last):
+  File "/workspace/bot-sandbox/.venv-tts/bin/edge-tts", line 8, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/workspace/bot-sandbox/.venv-tts/lib/pyt
+[29] GEN s6b6 → narr-29.mp3 (62 chars)
+[30] GEN s7b0 → narr-30.mp3 (133 chars)
+[31] GEN s8b0 → narr-31.mp3 (142 chars)
+[32] GEN s9b0 → narr-32.mp3 (90 chars)
+[33] GEN s10b0 → narr-33.mp3 (150 chars)
+[34] GEN s11b0 → narr-34.mp3 (87 chars)
+OK: 35 clips → /workspace/bot-sandbox/audio-out
